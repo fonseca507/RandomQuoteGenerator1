@@ -1,2 +1,2 @@
 # RandomQuoteGenerator
- treehouseProject1
+ Project1
